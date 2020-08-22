@@ -1,6 +1,15 @@
 ### Hi there 👋
 
 
-✔️ I’m currently learning React Js and Node Js 
+I'm a brand-new self-taught coder 😎
+
+📆 soon work-study student at **OpenClassRooms** 🎓 
+
+
+🛠️ Learning JavaScript environment with React and Node
+
+
+
+💥 would appreciate any help or collaboration 💡 💡 
 
 
