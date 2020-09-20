@@ -5,15 +5,13 @@ I'm a brand-new self-taught coder 😎
 
 📆 soon work-study student at **OpenClassRooms** 🎓 
 
+<br />
+<br />
+
+⚡ Learning JavaScript environment with React and Node 🛠️
 
 
-
-
-
-
- ⚡ Learning JavaScript environment with React and Node ⚡
-
- ### Languages and Tools 🛠️
+ ### My languages and tools 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -29,7 +27,7 @@ I'm a brand-new self-taught coder 😎
 <br />
 <br />
 
-💥 would appreciate any help or collaboration 💡 💡  --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
+💥 would appreciate any help or collaboration 💡 💡  ### --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
 
 
 <br />
