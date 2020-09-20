@@ -27,8 +27,11 @@ I'm a brand-new self-taught coder 😎
 
 <img align="left" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76" />
 
-
+<br />
+<br />
+<br />
 
 💥 would appreciate any help or collaboration 💡 💡 
 
+[<img align="left" alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
