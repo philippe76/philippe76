@@ -32,7 +32,10 @@ I'm a brand-new self-taught coder 😎
 <br />
 
 💥 would appreciate any help or collaboration 💡 💡 
+
+<br />
+<br />
 <br />
 
-[<img align="left" alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/philippe-lanougadere/]
+[<img align="left" alt="philippe76 | LinkedIn" width="22px" src="https://www.linkedin.com/in/philippe-lanougadere/" />][https://www.linkedin.com/in/philippe-lanougadere/]
 
