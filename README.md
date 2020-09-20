@@ -2,17 +2,17 @@
 
 <br />
 
-I'm a brand-new self-taught coder 😎
+--> I'm a brand-new self-taught coder 😎
 
 <br />
 
 📆 soon work-study student at **OpenClassRooms** 🎓 
 
 <br />
-<br />
 
 ⚡ Learning JavaScript environment with React and Node 🛠️
 
+<br />
 
  ### My languages and tools 
 
