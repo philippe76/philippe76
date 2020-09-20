@@ -14,9 +14,7 @@
 
 <br />
 
-💡 would appreciate any help or collaboration 
-
-Come and join me [<img alt="philippe76 | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
+💡 would appreciate any help or collaboration --> [<img alt="philippe76 | LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
 
 <br />
 
