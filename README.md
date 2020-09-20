@@ -22,6 +22,8 @@ I'm a brand-new self-taught coder 😎
 
 <img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.philippe76.vercel.app/api/top-langs/?username=rodolphe37" />
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?philippe76" frameborder="0"></iframe>
+
 
 💥 would appreciate any help or collaboration 💡 💡 
 
