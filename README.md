@@ -8,7 +8,6 @@ I'm a brand-new self-taught coder 😎
 
 🛠️ Learning JavaScript environment with React and Node
 
-Languages:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -20,6 +19,9 @@ Languages:
 <br />
 <br />
 <br />
+
+<img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.philippe76.vercel.app/api/top-langs/?username=rodolphe37" />
+
 
 💥 would appreciate any help or collaboration 💡 💡 
 
