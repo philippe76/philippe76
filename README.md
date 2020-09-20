@@ -28,15 +28,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
-<br />
 
-💥 would appreciate any help or collaboration 💡 💡  
+💥 would appreciate any help or collaboration 
 
-<br /> --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
+ --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
 
 
 <br />
 
 <img align="left" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76" />
-
+💡 💡  
 
