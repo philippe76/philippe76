@@ -2,7 +2,7 @@
 
 <br />
 
---> I'm a brand-new self-taught coder 😎
+I'm a brand-new self-taught coder 😎
 
 <br />
 
