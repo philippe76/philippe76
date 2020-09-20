@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<br />
 
 I'm a brand-new self-taught coder 😎
+
+<br />
 
 📆 soon work-study student at **OpenClassRooms** 🎓 
 
@@ -27,7 +30,9 @@ I'm a brand-new self-taught coder 😎
 <br />
 <br />
 
-💥 would appreciate any help or collaboration 💡 💡  ### --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
+💥 would appreciate any help or collaboration 💡 💡  
+
+<br /> --> [<img alt="philippe76 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/philippe-lanougadere/)
 
 
 <br />
