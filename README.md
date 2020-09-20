@@ -6,6 +6,11 @@ I'm a brand-new self-taught coder 😎
 📆 soon work-study student at **OpenClassRooms** 🎓 
 
 
+
+
+
+
+
  ⚡ Learning JavaScript environment with React and Node ⚡
 
  ### Languages and Tools 🛠️
