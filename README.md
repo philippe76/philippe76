@@ -10,7 +10,7 @@ I'm a brand-new self-taught coder 😎
 
 <br />
 
-⚡ Learning JavaScript environment with React and Node 🛠️
+⚡ Learning **JavaScript** environment with **React** and **Node** 🛠️
 
 <br />
 
