@@ -44,6 +44,6 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 <a href="mailto:p.lanougadere@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
 <br />
 
-[![Gmail Badge](https://img.shields.io/badge/-sdey9@uic.edu-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-philippe-lanougadere%20Dey-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@filip-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=filip "Follow on Twitter")
+[![Gmail Badge](https://img.shields.io/badge/-p.lanougadere@gmail.com?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")
+[![Linkedin Badge](https://img.shields.io/badge/-philippe-lanougadere?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@I_m_your_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=I_m_your_dev "Follow on Twitter")
