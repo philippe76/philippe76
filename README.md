@@ -39,8 +39,8 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 <br />
 <br /> 
 
-[![Twitter Badge](https://img.shields.io/badge/-@I_m_your_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/I_m_your_dev)
-[![Linkedin Badge](https://img.shields.io/badge/-P.Lanougadere-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/)
-[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")
+[![Twitter Badge](https://img.shields.io/badge/-@I_m_your_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/I_m_your_dev)&nbsp; &nbsp; 
+[![Linkedin Badge](https://img.shields.io/badge/-P.Lanougadere-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/)&nbsp; &nbsp; 
+[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")&nbsp; &nbsp; 
 
 
