@@ -6,7 +6,7 @@
 
 <br />
 
-I'm a brand-new self-taught coder 😎
+I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=philippe76.philippe76&style=flat-square&color=0088cc)
 
 <br />
 
