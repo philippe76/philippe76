@@ -1,4 +1,3 @@
-<br />
 
 ### Hi there !!👋  
 
@@ -43,9 +42,8 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 
 <br />
 <br /> 
-
 <br/>
-
+<br />
 
 [![my portfolio](https://img.shields.io/badge/-My_Porfolio-535c68?style=flat&logoColor=white)](https://filip-your-dev.com)&nbsp; &nbsp; 
 [![Twitter Badge](https://img.shields.io/badge/-@I__m_your_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/I_m_your_dev)&nbsp; &nbsp; 
