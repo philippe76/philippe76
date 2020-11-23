@@ -17,8 +17,6 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 ⚡ Learning **JavaScript** environment with **React** and **Node** 🛠️
 <p>Love to learn new programming tricks 💖<p> 
 
-<br />
-
  ### My languages :
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,6 +28,7 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 <br />
+<br />
 
 ### My tools :
 
@@ -39,7 +38,7 @@ I'm a brand-new self-taught coder 😎  &nbsp; &nbsp; ![](https://visitor-badge.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="npm" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 
-<br />
+
 <br />
 <br /> 
 
