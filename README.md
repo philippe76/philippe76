@@ -1,7 +1,7 @@
 
 ### Hi there !!👋  
 
-<img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=tokyonight" />
+<img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&bg_color=#1F85DE" />
 
 <br />
 
