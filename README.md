@@ -1,6 +1,6 @@
 
 <img width="80%" alt="Hello" src="Hello-removebg.png" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Annapurna+SIL+&pause=1000&color=EB2B05&center=true&vCenter=true&random=true&width=480&lines=I'm+a+self-taught+front-end+developer+😎">
 
 <img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=dracula" />
 
