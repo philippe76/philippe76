@@ -1,5 +1,6 @@
 
-### Hi there !!👋  
+<img width="80%" alt="Hello" src="Hello-removebg.png" />
+
 
 <img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=dracula" />
 
