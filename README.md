@@ -11,7 +11,7 @@
 
 <p>Always tracking new coding tricks ✨<p> 
 
-<br/><br/>
+<br/>
 
 <img alt="HTML" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" />
 
@@ -25,9 +25,10 @@
 
 <img alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left"/>
 
-<br />
-<br />
-<br />
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 [![my portfolio](https://img.shields.io/badge/-My_Porfolio-535c68?style=flat&logoColor=white)](https://filip-your-dev.com)&nbsp; &nbsp; 
