@@ -4,7 +4,7 @@
 
 
 
-<img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=dracula" />
+<img align="right" alt="philippe76 Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&layout=compact&theme=dracula" />
 
 
 <p>In love with JavaScript and CSS  <i class="fa-solid fa-heart fa-beat" style="color: hotpink; margin-left: 5px"></i></p>
@@ -32,17 +32,18 @@
 
 
 [![my portfolio](https://img.shields.io/badge/-My_Porfolio-535c68?style=flat&logoColor=white)](https://filip-your-dev.com)&nbsp; &nbsp; 
-[![Twitter Badge](https://img.shields.io/badge/-@I__m_your_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/I_m_your_dev)&nbsp; &nbsp; 
-[![Linkedin Badge](https://img.shields.io/badge/-P.Lanougadere-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/)&nbsp; &nbsp; 
-[![Gmail Badge](https://img.shields.io/badge/-@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")&nbsp; &nbsp; 
 
-[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FI_m_your_dev&style=flat&logo=x&label=I_m_your_dev&labelColor=000&color=000)
-](https://twitter.com/I_m_your_dev)
+[![Linkedin Badge](https://img.shields.io/badge/-philippe.lanougadere-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/)&nbsp; &nbsp; 
 
+[![Gmail Badge](https://img.shields.io/badge/-p.lanougadere-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com "Connect via Email")&nbsp; &nbsp; 
 
-
+[![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FI_m_your_dev&style=flat&logo=x&label=%40I_m_your_dev&labelColor=333&color=333)
+](https://twitter.com/I_m_your_dev)&nbsp; &nbsp; 
 
 
 
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=dracula&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=philippe76&theme=dracula&hide_progress=true) -->
