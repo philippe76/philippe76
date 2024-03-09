@@ -10,7 +10,7 @@
 
 
 <!-- <p>In love with JavaScript and CSS  <i class="fa-solid fa-heart fa-beat" style="color: hotpink; margin-left: 5px"></i></p> -->
-<p>In love with JavaScript and CSS <img width="30px" src="Heart on Fire.png" /> </p>
+<p>In love with JavaScript and CSS <img width="25px" src="Heart on Fire.png" style="vertical-align: baseline;" /> </p>
 
 
 <p>Always tracking new coding tricks ✨<p> 
