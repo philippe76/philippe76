@@ -39,6 +39,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-philippe.lanougadere-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/philippe-lanougadere/)&nbsp; &nbsp; 
 [![Gmail Badge](https://img.shields.io/badge/-p.lanougadere-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:p.lanougadere@gmail.com)&nbsp; &nbsp; 
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2FI_m_your_dev&style=flat&logo=x&label=%40I_m_your_dev&labelColor=333&color=333)
-](https://twitter.com/I_m_your_dev)&nbsp; &nbsp; 
+](https://twitter.com/I_m_your_dev) 
 
 
